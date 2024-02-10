@@ -4003,7 +4003,7 @@
     "nom": "PC-00486-LDL",
     "ip": "255.255.255.255",
     "mac": "00:00:00:00:00:01",
-    "salle": "mediatheque ",
+    "salle": "mediatheque",
     "pc": "1",
     "tags": "eleves"
   },
@@ -4131,7 +4131,7 @@
     "nom": "PC-00502-LDL",
     "ip": "255.255.255.255",
     "mac": "00:00:00:00:00:01",
-    "salle": "mediatheque ",
+    "salle": "mediatheque",
     "pc": "17",
     "tags": "eleves"
   },
