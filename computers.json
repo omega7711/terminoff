@@ -1,8 +1,8 @@
 [
   {
-    "nom": "TEST-DEBUG",
-    "ip": "DESKTOP-MAB1T3S",
-    "mac": "je sais pas",
+    "nom": "DESKTOP-MAB1T3S",
+    "ip": "192.168.1.28",
+    "mac": "00:1d:60:53:66:cd",
     "salle": "chezoim",
     "pc": "lemien",
     "tags": "debug"
