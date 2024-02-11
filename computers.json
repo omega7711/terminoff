@@ -1,5 +1,13 @@
 [
   {
+    "nom": "TEST-DEBUG",
+    "ip": "DESKTOP-MAB1T3S",
+    "mac": "je sais pas",
+    "salle": "chez moi"
+    "pc": "le mien", 
+    "tags": "debug"
+  },
+  {
     "nom": "DUBREUIL",
     "ip": "172.21.71.254",
     "mac": "e8:e7:32:ff:b5:d4",
